@@ -1,7 +1,7 @@
 console.log("hello there!!");
 
-const timesFour = (num) => {
-  return 4 * num;
+const timesThree = (num) => {
+  return 3 * num;
 };
 
 const timesFive = (num) => {
