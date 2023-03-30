@@ -1,4 +1,4 @@
-console.log("hello there!!!!");
+console.log("hello there!!");
 
 const timesFour = (num) => {
   return 4 * num;
