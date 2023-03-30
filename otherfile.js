@@ -1,10 +1,9 @@
-console.log('hello there');
-
+console.log("hello there!!!!");
 
 const timesFour = (num) => {
-    return 4 * num
-}
+  return 4 * num;
+};
 
 const timesFive = (num) => {
-    return 5 * num
-}
+  return 5 * num;
+};
